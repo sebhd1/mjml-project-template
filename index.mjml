@@ -1,0 +1,18 @@
+<mjml>
+    <mj-head>
+        <mj-preview>
+            <!-- TODO Add mail preview -->
+        </mj-preview>
+
+        <mj-title>Email title</mj-title>
+
+        <mj-include path="style.css" type="css" />
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <!-- TODO Add mail content -->
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
